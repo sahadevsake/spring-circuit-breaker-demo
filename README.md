@@ -1,0 +1,1 @@
+Implementation a example project for circuit-breaker pattern in SpringFramework,Springboot-3.5.9, and gradle-8.14.3-bin.zip, java17. with states: CLOSED, OPEN and HALF_OPEN and two special states DISABLED and FORCED_OPEN.
